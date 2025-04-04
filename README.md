@@ -1,16 +1,29 @@
-# image_generate_app
+# 🧠✨ AI Image Generator App with Flutter + BLoC
 
-A new Flutter project.
+Create stunning AI-generated images with just a few words!  
+This Flutter app uses the power of the [Imagine.Art](http://imagine.art) API and clean BLoC architecture to transform your text into beautiful visuals.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue) ![Dart](https://img.shields.io/badge/Dart-Language-blue) ![BLoC](https://img.shields.io/badge/BLoC-State--Management-green) ![AI](https://img.shields.io/badge/AI-Image--Generation-purple)
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Enter any prompt to describe your desired image
+- 🧠 Leverages Imagine.Art API for powerful AI-generated visuals
+- ⚙️ Built using Flutter & BLoC pattern for maintainability and scalability
+- 🎨 Beautiful and responsive UI for all screen sizes
+- 📤 Download and share the generated images
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** – Cross-platform UI toolkit
+- **Dart** – Programming language
+- **BLoC (flutter_bloc)** – Predictable state management
+- **Imagine.Art API** – AI image generation service
+- **HTTP package** – For API integration
+
+## 🔧 Getting Started
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/VSShimpi/flutter_image_generation_ai_app.git
+   cd flutter_image_generation_ai_app
